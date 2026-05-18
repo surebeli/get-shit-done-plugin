@@ -1,0 +1,9 @@
+{
+  "name": "get-shit-done",
+  "description": "Get Shit Done (GSD) — a meta-prompting, context engineering and spec-driven development system for Claude Code. Provides /gsd:plan-phase, /gsd:execute-phase, /gsd:discuss-phase, /gsd:new-project, and 80+ other workflow commands, plus 22+ sub-agents (gsd-planner, gsd-executor, gsd-plan-checker, etc.) and hooks for session/phase boundary tracking.",
+  "author": {
+    "name": "TÂCHES",
+    "url": "https://github.com/khromov/get-shit-done-cc"
+  },
+  "homepage": "https://github.com/surebeli/get-shit-done-plugin"
+}
