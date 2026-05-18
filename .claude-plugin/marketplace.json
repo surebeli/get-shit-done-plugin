@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "get-shit-done-plugin",
+  "description": "Get Shit Done (GSD) — a meta-prompting, context engineering and spec-driven development system for Claude Code.",
+  "owner": {
+    "name": "litianyi",
+    "email": "surebeli@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "get-shit-done",
+      "description": "Get Shit Done (GSD) workflow suite — fork of khromov/get-shit-done-cc. Provides /gsd:plan-phase, /gsd:execute-phase, /gsd:discuss-phase, and 80+ other workflow commands plus 22+ sub-agents.",
+      "author": {
+        "name": "litianyi",
+        "email": "surebeli@gmail.com"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/surebeli/get-shit-done-plugin"
+    }
+  ]
+}
